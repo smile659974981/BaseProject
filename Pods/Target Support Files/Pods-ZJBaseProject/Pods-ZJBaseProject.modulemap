@@ -1,0 +1,6 @@
+module Pods_ZJBaseProject [system] {
+  umbrella header "Pods-ZJBaseProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
